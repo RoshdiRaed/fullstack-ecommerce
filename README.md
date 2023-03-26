@@ -11,11 +11,11 @@ First, run the development server:
 ```bash
 npm run dev
 ```
-# or
+# OR Yarn
 ```java
 yarn dev
 ```
-# or
+# OR Pnpm
 ```bash
 pnpm dev
 ```
