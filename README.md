@@ -12,7 +12,7 @@ First, run the development server:
 npm run dev
 ```
 # OR Yarn
-```java
+```bash
 yarn dev
 ```
 # OR Pnpm
