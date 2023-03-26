@@ -5,14 +5,18 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 Run npm command:
 ```bash
 npm i
-
+```
 First, run the development server:
 
 ```bash
 npm run dev
+```
 # or
+```java
 yarn dev
+```
 # or
+```bash
 pnpm dev
 ```
 
